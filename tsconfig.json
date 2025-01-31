@@ -8,6 +8,6 @@
     "include": [
       "cypress/**/*.ts", 
       "node_modules/cypress" 
-    ]
+, "cypress/page-object-model/asosPage.ts", "cypress/page-object-model/selectors.ts"    ]
   }
   
